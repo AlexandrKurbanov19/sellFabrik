@@ -9,11 +9,13 @@ Next.js + Strapi CMS + PostgreSQL. Партнёрка — сменный ада�
 
 ## Документы
 - **[docs/PLAN.md](docs/PLAN.md)** — план реализации, архитектура, модель данных, roadmap, риски, открытые вопросы.
+- **[docs/analytics/SUMMARY.md](docs/analytics/SUMMARY.md)** — резюме аналитики: гео, направления, объём первой волны, экономика.
 - **[docs/analytics/directions-summary.md](docs/analytics/directions-summary.md)** — сводка по 16 направлениям.
 - **[docs/analytics/geo-matrix.csv](docs/analytics/geo-matrix.csv)** — матрица `направление × город` (2270 строк).
 - **[docs/analytics/directions-summary.json](docs/analytics/directions-summary.json)** — машинно-читаемая сводка + недельные дельты.
 - **[docs/research/affiliates.md](docs/research/affiliates.md)** — справочно: сравнение партнёрок, API и риск-профиль (решение: работаем только с Leads Market).
 - **[docs/research/alternatives.md](docs/research/alternatives.md)** — альтернативные партнёрки вертикали (Руки из плеч, FirstLead, FIXCPA, ASC-Service и др.), чек-лист проверки.
+- **[docs/research/approach-review.md](docs/research/approach-review.md)** — критический разбор подхода, риски и альтернативное видение.
 
 ## Аналитика из `pulse.xlsx`
 | Метрика | Значение |
