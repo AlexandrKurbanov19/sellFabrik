@@ -1,0 +1,306 @@
+[
+  {
+    "code": "СМ",
+    "sheet": "СМ",
+    "name": "Ремонт стиральных машин",
+    "block": "БТ",
+    "total": 140,
+    "increase": 42,
+    "nochange": 26,
+    "disable": 72,
+    "active_strict": 42,
+    "active_loose": 68,
+    "week_on": [],
+    "week_off": [
+      "Копейск (Челябинск)",
+      "Коркино (Челябинск)",
+      "Петрозаводск",
+      "Челябинск"
+    ]
+  },
+  {
+    "code": "ХД",
+    "sheet": "ХД",
+    "name": "Ремонт холодильников",
+    "block": "БТ",
+    "total": 140,
+    "increase": 52,
+    "nochange": 31,
+    "disable": 57,
+    "active_strict": 52,
+    "active_loose": 83,
+    "week_on": [
+      "Бугры (Санкт-Петербург)",
+      "Всеволожск (Санкт-Петербург)",
+      "Колпино (Санкт-Петербург)",
+      "Кудрово (Санкт-Петербург)",
+      "Ломоносов (Санкт-Петербург)",
+      "Мурино (Санкт-Петербург)",
+      "Павловск (Санкт-Петербург)",
+      "Петергоф (Санкт-Петербург)",
+      "Пушкин (Санкт-Петербург)",
+      "Сертолово (Санкт-Петербург)",
+      "Сестрорецк (Санкт-Петербург)",
+      "Сызрань"
+    ],
+    "week_off": []
+  },
+  {
+    "code": "ПМ",
+    "sheet": "ПМ",
+    "name": "Ремонт посудомоечных машин",
+    "block": "БТ",
+    "total": 140,
+    "increase": 42,
+    "nochange": 26,
+    "disable": 72,
+    "active_strict": 42,
+    "active_loose": 68,
+    "week_on": [],
+    "week_off": [
+      "Копейск (Челябинск)",
+      "Коркино (Челябинск)",
+      "Петрозаводск",
+      "Челябинск"
+    ]
+  },
+  {
+    "code": "СП",
+    "sheet": "СП",
+    "name": "Ремонт сплит-систем (кондиционеров)",
+    "block": "БТ",
+    "total": 140,
+    "increase": 25,
+    "nochange": 7,
+    "disable": 108,
+    "active_strict": 25,
+    "active_loose": 32,
+    "week_on": [],
+    "week_off": [
+      "Новочебоксарск (Чебоксары)",
+      "Цивильск (Чебоксары)",
+      "Чебоксары"
+    ]
+  },
+  {
+    "code": "ПК",
+    "sheet": "ПК",
+    "name": "Ремонт компьютеров и ноутбуков",
+    "block": "БТ",
+    "total": 140,
+    "increase": 15,
+    "nochange": 9,
+    "disable": 116,
+    "active_strict": 15,
+    "active_loose": 24,
+    "week_on": [],
+    "week_off": [
+      "Вологда",
+      "Краснодар"
+    ]
+  },
+  {
+    "code": "ТВ",
+    "sheet": "ТВ",
+    "name": "Ремонт телевизоров",
+    "block": "БТ",
+    "total": 140,
+    "increase": 7,
+    "nochange": 8,
+    "disable": 125,
+    "active_strict": 7,
+    "active_loose": 15,
+    "week_on": [],
+    "week_off": [
+      "Вологда"
+    ]
+  },
+  {
+    "code": "ВП",
+    "sheet": "ВП",
+    "name": "Ремонт варочных панелей и духовых шкафов",
+    "block": "БТ",
+    "total": 140,
+    "increase": 8,
+    "nochange": 2,
+    "disable": 130,
+    "active_strict": 8,
+    "active_loose": 10,
+    "week_on": [
+      "Сочи"
+    ],
+    "week_off": [
+      "Красноярск",
+      "Тверь"
+    ]
+  },
+  {
+    "code": "БР",
+    "sheet": "БР",
+    "name": "Ремонт бойлеров",
+    "block": "БТ",
+    "total": 140,
+    "increase": 10,
+    "nochange": 11,
+    "disable": 119,
+    "active_strict": 10,
+    "active_loose": 21,
+    "week_on": [
+      "Сочи"
+    ],
+    "week_off": [
+      "Вологда"
+    ]
+  },
+  {
+    "code": "КМ",
+    "sheet": "КМ",
+    "name": "Ремонт кофемашин",
+    "block": "БТ",
+    "total": 140,
+    "increase": 13,
+    "nochange": 11,
+    "disable": 116,
+    "active_strict": 13,
+    "active_loose": 24,
+    "week_on": [],
+    "week_off": [
+      "Тверь"
+    ]
+  },
+  {
+    "code": "ДЕЗ",
+    "sheet": "ДЕЗ",
+    "name": "Дезинфекция",
+    "block": "МНЧ",
+    "total": 140,
+    "increase": 4,
+    "nochange": 0,
+    "disable": 136,
+    "active_strict": 4,
+    "active_loose": 4,
+    "week_on": [
+      "Сочи"
+    ],
+    "week_off": []
+  },
+  {
+    "code": "ЭЛ",
+    "sheet": "ЭЛ",
+    "name": "Услуги электрика",
+    "block": "МНЧ",
+    "total": 145,
+    "increase": 39,
+    "nochange": 11,
+    "disable": 95,
+    "active_strict": 39,
+    "active_loose": 50,
+    "week_on": [
+      "Семилуки (Воронеж)"
+    ],
+    "week_off": [
+      "Волгоград",
+      "Волжск (Казань)",
+      "Зеленодольск (Казань)",
+      "Казань",
+      "Рязань",
+      "Санкт-Петербург",
+      "Сургут"
+    ]
+  },
+  {
+    "code": "САН",
+    "sheet": "САН",
+    "name": "Услуги сантехника",
+    "block": "МНЧ",
+    "total": 145,
+    "increase": 39,
+    "nochange": 7,
+    "disable": 99,
+    "active_strict": 39,
+    "active_loose": 46,
+    "week_on": [
+      "Семилуки (Воронеж)"
+    ],
+    "week_off": [
+      "Волгоград",
+      "Волжск (Казань)",
+      "Зеленодольск (Казань)",
+      "Казань",
+      "Санкт-Петербург",
+      "Рязань",
+      "Сургут"
+    ]
+  },
+  {
+    "code": "МНЧ",
+    "sheet": "МНЧ",
+    "name": "Услуги мастера на час",
+    "block": "МНЧ",
+    "total": 145,
+    "increase": 19,
+    "nochange": 1,
+    "disable": 125,
+    "active_strict": 19,
+    "active_loose": 20,
+    "week_on": [
+      "Воронеж",
+      "Михайловск (Ставрополь)",
+      "Семилуки (Воронеж)"
+    ],
+    "week_off": [
+      "Ижевск"
+    ]
+  },
+  {
+    "code": "ОКНА",
+    "sheet": "ОКНА",
+    "name": "Услуги по ремонту окон",
+    "block": "МНЧ",
+    "total": 145,
+    "increase": 41,
+    "nochange": 2,
+    "disable": 102,
+    "active_strict": 41,
+    "active_loose": 43,
+    "week_on": [
+      "Михайловск (Ставрополь)",
+      "Ставрополь"
+    ],
+    "week_off": []
+  },
+  {
+    "code": "КЛН",
+    "sheet": "КЛН",
+    "name": "Услуги клининга",
+    "block": "МНЧ",
+    "total": 145,
+    "increase": 1,
+    "nochange": 0,
+    "disable": 144,
+    "active_strict": 1,
+    "active_loose": 1,
+    "week_on": [],
+    "week_off": [
+      "Новосибирск"
+    ]
+  },
+  {
+    "code": "МБ",
+    "sheet": "МБ",
+    "name": "Услуги по сборке мебели",
+    "block": "МНЧ",
+    "total": 145,
+    "increase": 18,
+    "nochange": 0,
+    "disable": 127,
+    "active_strict": 18,
+    "active_loose": 18,
+    "week_on": [
+      "Воронеж",
+      "Михайловск (Ставрополь)",
+      "Семилуки (Воронеж)"
+    ],
+    "week_off": []
+  }
+]

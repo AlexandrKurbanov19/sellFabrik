@@ -1,0 +1,41 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# builds
+.next/
+out/
+dist/
+build/
+.turbo/
+
+# env & secrets
+.env
+.env.*
+!.env.example
+
+# Strapi
+.cache/
+.strapi/
+public/uploads/
+*.db
+*.sqlite
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# editors / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# misc
+coverage/
+.tmp/
+tmp/
