@@ -19,7 +19,8 @@ Next.js + Strapi CMS + PostgreSQL. Партнёрка — сменный ада�
 - **[docs/research/channels.md](docs/research/channels.md)** — сравнение каналов: Avito, Яндекс.Услуги, Директ, SEO, экономика и риски.
 - **[docs/research/avito-factory.md](docs/research/avito-factory.md)** — рабочая Avito-модель, «бронеаккаунты», масспостинг и тулкит фабрики.
 - **[docs/specs/avito-factory.md](docs/specs/avito-factory.md)** — техническая спецификация софта: модули, модель данных, стек, roadmap.
-- **[docs/plan/manual-month.md](docs/plan/manual-month.md)** — ручной пилот на 1 месяц: подготовка, таблица учёта, план по неделям, гейт на масштабирование.
+- **[docs/plan/manual-month.md](docs/plan/manual-month.md)** — ручной пилот на 1 месяц: подготовка, план по неделям, гейт на масштабирование.
+  - Шаблоны логов: [log-operations.csv](docs/plan/log-operations.csv), [log-ads.csv](docs/plan/log-ads.csv).
 - **[docs/research/avito-tools.md](docs/research/avito-tools.md)** — build vs buy: обзор готовых сервисов (Reyting Pro, AviTool, AviForce и др.), что строить самим.
 
 ## Аналитика из `pulse.xlsx`

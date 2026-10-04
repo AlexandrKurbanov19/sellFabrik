@@ -1,0 +1,4 @@
+ad_id;date_published;direction;city;account;title;photos_count;promotion_type;promo_spend_rub;views;chats;calls;leads;approved;rejected;payout_rub;cpl_rub;status;ban_reason;notes
+ad_001;2026-10-05;ХД;Воронеж;acc_01;Ремонт холодильников на дому в Воронеже;3;XL;150;420;3;5;5;3;1;2400;30;active;;текст с ценой дал больше звонков
+ad_002;2026-10-05;ХД;Самара;acc_01;Выездной ремонт холодильников Самара;3;базовое;50;180;1;2;2;1;0;800;25;active;;
+ad_003;2026-10-05;СМ;Воронеж;acc_02;Ремонт стиральных машин Воронеж;2;XL;150;90;0;0;0;0;0;0;;banned;дубликат фото;фото не уникализировано
