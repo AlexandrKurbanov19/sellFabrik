@@ -16,6 +16,7 @@ Next.js + Strapi CMS + PostgreSQL. Партнёрка — сменный ада�
 - **[docs/research/affiliates.md](docs/research/affiliates.md)** — справочно: сравнение партнёрок, API и риск-профиль (решение: работаем только с Leads Market).
 - **[docs/research/alternatives.md](docs/research/alternatives.md)** — альтернативные партнёрки вертикали (Руки из плеч, FirstLead, FIXCPA, ASC-Service и др.), чек-лист проверки.
 - **[docs/research/approach-review.md](docs/research/approach-review.md)** — критический разбор подхода, риски и альтернативное видение.
+- **[docs/research/channels.md](docs/research/channels.md)** — сравнение каналов: Avito, Яндекс.Услуги, Директ, SEO, экономика и риски.
 
 ## Аналитика из `pulse.xlsx`
 | Метрика | Значение |
